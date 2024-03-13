@@ -1,7 +1,7 @@
 
     let board;
-    let boardWidth = window.innerWidth;
-    let boardHeight = window.innerHeight;
+    let boardWidth = 1500;
+    let boardHeight = 800;
     let context;
     
     let birdWidth = 50;
