@@ -46,7 +46,7 @@
         };
 
             topPipeImg = new Image();
-            topPipeImg.src = "Images/toppipe.png";
+            topPipeImg.src = "../Images/toppipe.png";
 
             bottomPipeImg = new Image();
             bottomPipeImg.src = "../Images/bottompipe.png";
